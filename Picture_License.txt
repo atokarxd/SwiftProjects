@@ -1,6 +1,6 @@
 	
 
-	Animal Pack Redux
+	Animal Pack Redux (Milestone folder)
 
 	by Kenney Vleugels (Kenney.nl)
 
